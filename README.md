@@ -23,7 +23,7 @@
 <h2>
 About me 💻
 </h2>
-I'm software engineer with over 7 years of industry experience, working on a wide variety of services ranging from an application security automation and orchestration platform to a fraud- prevention platform.
+I'm a software engineer with over 7 years of industry experience, working on a wide variety of services ranging from an application security automation and orchestration platform to a fraud-prevention platform.
 
 I have a passion for producing clean, maintainable code and strive to implement best practices and test-driven development.
 
