@@ -23,10 +23,10 @@
 <h2>
 About me 💻
 </h2>
-I am a seasoned software engineer with over 7 years of industry experience, delivering innovative solutions across a diverse range of projects.
+I am a seasoned software engineer with over 8 years of industry experience, delivering innovative solutions across a diverse range of projects.
 <br/>
 <br/>
-From working on an application security automation and orchestration platform to a fraud-prevention platform and even automated testing tools, I have honed my skills in delivering scalable and robust software.  
+From working on an application security automation and orchestration platform to a fraud-prevention platform, automated testing tools and even a usage-based pricing platform, I have honed my skills in delivering scalable, performant and robust software.  
 <br/>
 <br/>
 I am a strong believer in clean, maintainable code and consistently implement best practices and test-driven development to ensure the highest quality of work. My passion for technology and problem-solving drives me to continuously learn and improve my craft.
