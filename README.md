@@ -18,10 +18,10 @@
 About me 💻
 </h2>
   <p>
-I am a seasoned software engineer with over 9 years of industry experience, delivering innovative solutions across a diverse range of projects.
+I'm a senior software engineer and tech lead with over a decade of experience delivering AI-powered and data-intensive systems across a wide range of projects and sectors.
 <br/>
 <br/>
-From working on an application security automation and orchestration platform to a fraud-prevention platform, automated testing tools and even a usage-based pricing platform, I have honed my skills in delivering scalable, performant and robust software.  
+From application security automation platforms to fraud prevention systems and AI knowledge agents, I focus on delivering scalable, performant solutions that solve real business problems.
 <br/>
 <br/>
 I am a strong believer in clean, maintainable code and consistently implement best practices and test-driven development to ensure the highest quality of work. My passion for technology and problem-solving drives me to continuously learn and improve my craft.
