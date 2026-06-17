@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-   <a href="https://www.coreyduffy.com/">
+   <a href="https://coreyduffy.com/">
     <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/coreyduffy/">
@@ -18,14 +18,11 @@
 About me 💻
 </h2>
   <p>
-I'm a senior software engineer and tech lead with over a decade of experience delivering AI-powered and data-intensive systems across a wide range of projects and sectors.
-<br/>
-<br/>
-From application security automation platforms to fraud prevention systems and AI knowledge agents, I focus on delivering scalable, performant solutions that solve real business problems.
-<br/>
-<br/>
-I am a strong believer in clean, maintainable code and consistently implement best practices and test-driven development to ensure the highest quality of work. My passion for technology and problem-solving drives me to continuously learn and improve my craft.
-</p>
+I'm a senior software engineer and tech lead, over a decade into building software. These days I'm mostly working on AI products and digital solutions for enterprise clients, while trying to keep the robots honest.
+
+I've worked across application security automation, fraud prevention, usage-based billing, AI knowledge agents, computer vision projects and more - taking things from early prototype to full-scale system.
+
+What first drew me to software development was being able to create and build whatever I could think of. What's kept me engaged is honing a craft. I care about clean, maintainable code, and I love the sense of progression - learning, adapting, and getting a little sharper over time. I definitely don't have all the answers, but I'm always working on it.
 
 <!--
 
